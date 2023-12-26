@@ -13,7 +13,7 @@ Este repositorio contiene una colección de notebooks que demuestran mis habilid
 ## Table de Contenido
 
 - [Notebook 1: Clasificación y clusterización de semillas](./clasificacion_clusterizacion_semillas.ipynb)
-- [Notebook 2: Migración de usuarios a un sistema basado en keycloak y azure (./script_migracion_usuarios_app_web.ipynb)
+- [Notebook 2: Migración de usuarios a un sistema basado en keycloak y azure](./script_migracion_usuarios_app_web.ipynb)
 
 
 ## Estado del Proyecto
