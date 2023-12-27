@@ -8,7 +8,8 @@ Este repositorio contiene una colección de notebooks que demuestran mis habilid
 - Análisis Exploratorio de Datos (EDA)
 - Visualización de Datos
 - Interacción con bases de datos
-- Integración con APIs:
+- Integración con APIs.
+- Web scraping.
 
 ## Table de Contenido
 
